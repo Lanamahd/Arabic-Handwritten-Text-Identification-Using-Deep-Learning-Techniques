@@ -76,9 +76,9 @@ Ensure you have the following installed:
 - Required libraries: `torch`, `numpy`, `matplotlib`, and `pandas`.
 
 Install dependencies using:
-    ```bash
+    ```
     pip install torch numpy matplotlib pandas
-
+    ```
 ### Running the Project
 1. Clone the repository:
 
